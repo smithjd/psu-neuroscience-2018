@@ -1,0 +1,39 @@
+---
+title: "Introduction to R"
+subtitle: "Language, environment, and community"
+author: "Aaron Makabuya, Ian Franz, and John David Smith"
+date: "2016/12/12"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+Dividing this talk in 3 parts
+* A bit about the language
+* Intro to the Rstudio IDE
+* Simple example for you to walk through
+* POinters to the R Community.
+---
+class: center, middle
+
+# The language
+
+### R
+
+---
+class: inverse, center, middle
+
+# Get Started
+
+---
+
+# Hello World
+
