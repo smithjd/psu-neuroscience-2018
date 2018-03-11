@@ -5,7 +5,7 @@ Introduction to R for the PSU Neuroscience Club by Aaron Makabuya, Ian Franz, an
   + Environment
   
 * Ian Frantz
-  + [R Studio]()
+  + [R Studio](https://github.com/smithjd/psu-neuroscience-2018/tree/master/Ian)
   + 
 
 * Aaron Makubya
